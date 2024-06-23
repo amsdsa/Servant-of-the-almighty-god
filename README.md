@@ -46,7 +46,7 @@
 | Rust               |                      |              | Flask                   | Cisco Packet Tracer         |                             |
 |                    |                      |              |                         | GitHub                      |                             |
 |                    |                      |              |                         | Soroban SDK, Stellar        |                             |
-|                    |                      |              |                         | MetMask, Freighter Wallet   |                             |
+|                    |                      |              |                         | MetaMask, Freighter Wallet  |                             |
 ## 💫 Github Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
