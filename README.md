@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Arpan+AKAapu52....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sharukhali+Syed;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<h3 align="center">An aspirant of Full stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer, Certified Data Sceintist, Practices Competetive Programming</h3>
 
 ![gitartwork](gitartwork.svg)
 
