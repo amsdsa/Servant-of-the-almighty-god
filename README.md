@@ -36,16 +36,17 @@
 
 ## SKILLS
 
-| Languages          | Databases            | DevOps       | Frameworks              | Tools                       | Others                      |
+| Languages          | Databases            | DevOps       | Frameworks              | Tools                       | Others                      |  
 |--------------------|----------------------|--------------|-------------------------|-----------------------------|-----------------------------|
 | C/C++              | SQLite               | CI/CD        | Spring Boot             | Git                         | Computer Networks           |
 | Java               | PostgreSQL           | Docker       | NodeJS                  | Linux                       | Operating Systems           |
 | Python             | MongoDB              | Jenkins      | ReactJS                 | Docker                      | System Design               |
 | TypeScript         | Firebase             |              | Express.js              | GCP                         | Microservices               |
 | Solidity           |                      |              | Django                  | AWS                         | Cloud Computing             |
-|                    |                      |              | Flask                   | Cisco Packet Tracer         |                             |
+| Rust               |                      |              | Flask                   | Cisco Packet Tracer         |                             |
 |                    |                      |              |                         | GitHub                      |                             |
-
+|                    |                      |              |                         | Soroban SDK, Stellar        |                             |
+|                    |                      |              |                         | MetMask, Freighter Wallet   |                             |
 ## 💫 Github Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
