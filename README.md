@@ -13,16 +13,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
 
-<a href="https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arpan Chowdhury" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/SHAHSAI/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-</a>
-<a href = "mailto:shahsai11111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/KpGwmj9C" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="#5418" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=web&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:example@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/your-user-id)
 
-</p>
+
 
 ## My Profile
 
