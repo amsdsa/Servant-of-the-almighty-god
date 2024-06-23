@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sharukhali+Syed;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
@@ -8,7 +8,6 @@
 <h3 align="center">A Developer who writes code like it's poetry, except my poems occasionally crash and need debugging. Problem-solving is a brain-draining rollercoaster that occasionally makes me want to throw my keyboard out the window, but the thrill of cracking the puzzle and seeing everything click into place? That's pure satisfaction. Let's build something great together, one bug at a time!"</h3>
 
 ![gitartwork](gitartwork.svg)
-
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
@@ -67,7 +66,7 @@
 <h4 align="left">My Hactoberfest 2022 & 2023 Badges:</h4>
 
 
-[![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
+[![An image of @ai-apex-dev Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
