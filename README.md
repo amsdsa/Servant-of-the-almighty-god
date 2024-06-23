@@ -49,23 +49,7 @@
 
 ## 💫 Github Stats
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-apex-dev&theme=synthwave-84&true&hide_border=true" />
-</div>
-
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-apex-dev&layout=compact&theme=highcontrast" alt=apu52 />
-
-<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=ai-apex-dev&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
-
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
