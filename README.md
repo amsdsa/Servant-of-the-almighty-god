@@ -9,13 +9,8 @@
 
 ![gitartwork](gitartwork.svg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ai-apex-dev/count.svg" />
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
 
 
 <p align="left">  </p>
@@ -102,13 +97,13 @@
 
 
 <div align="center">
-    <img width="600" src="https://github-profile-trophy.vercel.app/?username=apu52&theme=dracula&column=5" /> 
+    <img width="600" src="https://github-profile-trophy.vercel.app/?username=ai-apex-dev&theme=dracula&column=5" /> 
 </div>
 
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apu52&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-apex-dev&theme=synthwave-84&true&hide_border=true" />
 </div>
 
 
@@ -117,9 +112,9 @@
 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apu52&layout=compact&theme=highcontrast" alt=apu52 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-apex-dev&layout=compact&theme=highcontrast" alt=apu52 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=apu52&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ai-apex-dev&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
 
 
 
@@ -127,11 +122,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/apu52">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apu52&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apu52&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apu52&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apu52&theme=highcontrast" height="180em" />
+<a href="https://github.com/ai-apex-dev">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-apex-dev&theme=highcontrast" height="180em" />
 </div>
 <br>
 
@@ -140,18 +135,18 @@
 <h4 align="left">My Hactoberfest 2022 & 2023 Badges:</h4>
 
 
-[![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan001)](https://holopin.io/@arpan001)
+[![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 # 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ArpanChowdhury?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SHAHSAI?theme=dark&font=Josefin%20Slab&ext=heatmap)
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-# ✍️ Random Dev Quote
+# ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
